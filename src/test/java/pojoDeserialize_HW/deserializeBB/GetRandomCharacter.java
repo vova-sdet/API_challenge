@@ -21,6 +21,11 @@ public class GetRandomCharacter {
 
     static int numOfCharacters;
 
+//    GET https://breakingbadapi.com/api/characters/{id}
+//    Deserialize response using POJO class
+//
+//    Please make id randomly generated, so every run you get a new character.
+
     public int getRandomId() throws URISyntaxException, IOException {
 
         HttpClient client = HttpClientBuilder.create().build();
