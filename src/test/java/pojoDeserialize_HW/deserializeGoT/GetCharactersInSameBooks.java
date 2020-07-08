@@ -1,4 +1,4 @@
-package pojoDeserializeHW.deserializeGoT;
+package pojoDeserialize_HW.deserializeGoT;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;

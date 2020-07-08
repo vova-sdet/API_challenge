@@ -1,4 +1,4 @@
-package pojoDeserializeHW.deserializeGoT;
+package pojoDeserialize_HW.deserializeGoT;
 
 import java.util.List;
 

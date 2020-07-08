@@ -1,4 +1,4 @@
-package pojoDeserializeHW.SWspecies;
+package pojoDeserialize_HW.SWspecies;
 
 import java.util.List;
 

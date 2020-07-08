@@ -1,4 +1,4 @@
-package pojoDeserializeHW.SWspecies;
+package pojoDeserialize_HW.SWspecies;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;

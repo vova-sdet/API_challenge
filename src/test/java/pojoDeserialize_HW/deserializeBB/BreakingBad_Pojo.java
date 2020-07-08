@@ -1,4 +1,4 @@
-package pojoDeserializeHW.deserializeBB;
+package pojoDeserialize_HW.deserializeBB;
 
 import java.util.List;
 import java.util.Map;
