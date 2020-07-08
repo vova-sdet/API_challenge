@@ -1,4 +1,4 @@
-package deserializeBB;
+package pojoDeserializeHW.deserializeBB;
 
 public class BreakingB_Pojo {
 
