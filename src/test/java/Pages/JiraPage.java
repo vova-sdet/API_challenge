@@ -40,4 +40,10 @@ public class JiraPage {
     @FindBy(xpath = "//div[@class= 'user-content-block']//p")
     public WebElement issueDescription;
 
+    @FindBy(id = "assignee-val")
+    public WebElement assignee;
+
+    @FindBy(xpath = "//li[@id='ghx-issue-ctx-action-delete-container']")
+    public WebElement deleteIssue;
+
 }
